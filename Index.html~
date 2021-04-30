@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+      <head>
+            <meta charset="utf-8"/>
+                  <title>Centro De Servicio y Reparación Whirlpool</title>
+                       
+                       <link href="https://fonts.googleapis.com/css2?family=Open+Sans" rel="stylesheet" type="text/css">                       
+      </head>         
+<body>
+
+      <canvas width="50" height="50"></canvas> 
+<div style="text-align: center;">
+
+    <h2>Centro De Servicio y Reparación Whirlpool</h2>
+<br>
+    <img src="images/Lavadora.gif" width="300" height="300" alt="">
+    <img src="images/minisplits.gif" width="300" height="300" alt="">
+<br>    
+    <p>Reparación de linea blanca <em>(Lavadoras, Refrigeradores, Hornos de microhondas, Aires acondicionados, Estufas, Licuadoras)</em>.</p>
+<br>
+    <img src="images/lalala.png" width="400" height="150" alt=""> 
+<br>
+    <h4> Marcas Con las que trabajamos </h4>
+<br>
+    <img src="images/Logotipos.jpg" width="350" height="250" alt="">
+    <img src="images/Logotipos%202.jpg" width="350" height="250" alt="">
+    <p>
+    <pre>
+          <ol>
+        <strong><h2>VENTAJAS</h2></strong> 
+<br> 
+    <video src="images/Mantenimiento%20de%20una%20lavadora%20Whirlpool.mp4" width="500" height="300"></video> 
+</b>    
+	<li> Contamos con servicio a domicilio de lunes a sabado con un horario de 8:00 a.m. a 6:00 p.m.</li>
+	<li> Entregamos Hoja de Servicio (descripción del trabajo y monto total).</li>
+	<li> Política de garantía "60 dias sobre defecto de piezas o mal funcionamiento del trabajo".</li>
+	<li> Piezas totalmente originales y en su paquete. </li></span>
+          </ol>
+    </pre>
+<b>
+    <img src="images/Lavadorass.gif" width="678" height="288" alt=""> 
+</b>   
+    </p>
+<br>
+    <strong>Contactanos</strong>
+    <pre>Telefono: (52+) 735-181-40-32</pre>
+    <pre>Correo Electrónico: alonsoaviles09@gmail.com</pre>
+<br>
+    <strong><a href="https://www.google.com.mx/maps/place/Av+Nacional+24,+Centro,+62730+Centro,+Mor./@18.9057483,-98.974872,17z/data=!4m5!3m4!1s0x85ce6db38c8bd727:0x98ee05f4ae94db6a!8m2!3d18.9057432!4d-98.9726833
+    ">Ubicación</a></strong>
+    <pre>AV. Nacional 24, Centro, Oaxteper Mor, C.P 62730</pre>
+<br>
+    
+    <em> La fecha de última modificación ha sido el </em>
+    <SCRIPT>document.write(document.lastModified )</SCRIPT>  
+<br>
+    </div>
+          </body>
+          <canvas width="80" height="80"></canvas>
+                 </html>
+                 
